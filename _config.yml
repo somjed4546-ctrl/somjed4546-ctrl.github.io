@@ -23,7 +23,7 @@ repository               : "somjed4546-ctrl/somjed4546-ctrl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "somjed4546-ctrl.png"
+  avatar           : "somjed4546-ctrl"
   name             : "Somjed Phomchana"
   pronouns         : "He"  
   bio              : "A student in geoscience"
