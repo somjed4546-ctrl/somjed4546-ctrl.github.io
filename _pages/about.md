@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am just a normal geoscience student 
+I am just a normal geoscience student. 
 
 
 
