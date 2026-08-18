@@ -24,13 +24,13 @@ repository               : "somjed4546-ctrl/somjed4546-ctrl.github.io"
 author:
   # Biographic information
   avatar           : "somjed4546-ctrl.png"
-  name             : "Your Sidebar Name"
+  name             : "Somjed Phomchana"
   pronouns         : "He"  
   bio              : "A student in geoscience"
   location         : "Kanchanaburi"
   employer         : "Mahidol University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "somjed.phm@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
